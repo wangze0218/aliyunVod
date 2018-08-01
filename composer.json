@@ -1,5 +1,5 @@
 {
-    "name": "wangze/aliyunVod",
+    "name": "wangze/aliyun-vod",
     "description": "阿里云的短视频上传sdk 封装 laravel",
     "type": "library",
     "authors": [
