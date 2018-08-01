@@ -1,6 +1,6 @@
 <?php
 
-namespace James\AliyunVod;
+namespace Wangze\AliyunVod;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -1,5 +1,5 @@
 <?php
-namespace James\AliyunVod;
+namespace Wangze\AliyunVod;
 
 require_once './aliyun-php-sdk-core/Config.php';    // 假定您的源码文件和aliyun-php-sdk处于同一目录。
 require_once './aliyun-oss-php-sdk/autoload.php';
